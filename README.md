@@ -21,3 +21,7 @@ If you like to learn more about the NLP model used:
 
 https://openai.com/
 
+Examples outputs:
+
+https://www.reddit.com/user/FromSoftGameBot/comments/
+

@@ -17,4 +17,7 @@ Uses PRAW to scrape comments and reply to reddit, will need a reddit dev app aut
 
 Thank you, was fun training and building the bot. 
 
+If you like to learn more about the NLP model used: 
+
+https://openai.com/
 

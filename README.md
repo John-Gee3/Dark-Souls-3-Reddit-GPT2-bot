@@ -1,6 +1,10 @@
 # Dark-Souls-3-Reddit-GPT2-bot
 Dark Souls 3 Reddit GPT2 bot
 
+Dark Souls 3 is a From Software game known for it's gameplay and atmosphere. Specifically it's known for it's cryptic and exentric NPC dialog. I'm a huge fan of all the FromSoftware Soulsbourne games.
+
+https://en.wikipedia.org/wiki/Dark_Souls_III
+
 Reddit GPT2 Trained reddit bot. Due to the size limitations of the file, I could not upload the trained model, so rather I've attached the text used, and a script on how to finetune a language model on Google Collab using GPT2
 
 Using Google Collab, upload the text file and run the script, which should generate the language model you can download and use. Details (and Credit) in the Training file, I used it, but did create it.
